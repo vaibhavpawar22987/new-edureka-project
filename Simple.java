@@ -1,5 +1,5 @@
 class Simple {
-	public static void mail (string[] args) {
+	public static void main (string[] args) {
 		system.out.println("hello edureka");
 	}
 }
